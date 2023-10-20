@@ -7,7 +7,7 @@
 
 import Foundation
 
-
+// 
 enum error : Error {
     case invalidInput
 }
